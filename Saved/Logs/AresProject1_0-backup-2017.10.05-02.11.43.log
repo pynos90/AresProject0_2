@@ -1,0 +1,1130 @@
+﻿Log file open, 10/05/17 01:35:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: AresProject1_0
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-788578807) SRandInit(-788578807).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.176610
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.04-23.35.38:392][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.04-23.35.38:392][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.04-23.35.38:414][  0]LogInit: Computer: DESKTOP-FPBIT5V
+[2017.10.04-23.35.38:414][  0]LogInit: User: Pyos
+[2017.10.04-23.35.38:414][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.04-23.35.38:414][  0]LogInit: High frequency timer resolution =3.027279 MHz
+[2017.10.04-23.35.38:414][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.10.04-23.35.38:414][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.04-23.35.38:414][  0]LogMemory: Process Physical Memory: 279.87 MB used, 279.87 MB peak
+[2017.10.04-23.35.38:414][  0]LogMemory: Process Virtual Memory: 282.25 MB used, 282.25 MB peak
+[2017.10.04-23.35.38:414][  0]LogMemory: Physical Memory: 5052.50 MB used,  11283.78 MB free, 16336.28 MB total
+[2017.10.04-23.35.38:414][  0]LogMemory: Virtual Memory: 677.18 MB used,  11283.78 MB free, 134217728.00 MB total
+[2017.10.04-23.35.38:664][  0]LogInit: Using OS detected language (it-IT).
+[2017.10.04-23.35.38:664][  0]LogInit: Using OS detected locale (it-IT).
+[2017.10.04-23.35.38:668][  0]LogTextLocalizationManager: No localization for 'it-IT' exists, so 'en' will be used for the language.
+[2017.10.04-23.35.38:668][  0]LogTextLocalizationManager: No localization for 'it-IT' exists, so 'en' will be used for the locale.
+[2017.10.04-23.35.39:490][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.04-23.35.40:147][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.10.04-23.35.40:147][  0]LogD3D11RHI:       4059/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.10.04-23.35.40:148][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.04-23.35.40:149][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.04-23.35.40:149][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.04-23.35.40:156][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.04-23.35.40:156][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.04-23.35.40:156][  0]LogWindows: EnumDisplayDevices:
+[2017.10.04-23.35.40:156][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.10.04-23.35.40:156][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2017.10.04-23.35.40:157][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.10.04-23.35.40:157][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.10.04-23.35.40:157][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.10.04-23.35.40:157][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.10.04-23.35.40:157][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.10.04-23.35.40:157][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.10.04-23.35.40:157][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.04-23.35.40:784][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.04-23.35.40:825][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.04-23.35.40:876][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Intermediate/Shaders/WorkingDirectory/8680/).
+[2017.10.04-23.35.40:877][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Pyos/AppData/Local/Temp/UnrealShaderWorkingDir/6CD2AAD246AB04F34AA71A8E32AA53D2/'.
+[2017.10.04-23.35.40:877][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.04-23.35.42:159][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.04-23.35.42:230][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.04-23.35.42:302][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.04-23.35.42:375][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.04-23.35.42:454][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.04-23.35.42:540][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.04-23.35.42:618][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.04-23.35.42:691][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.04-23.35.42:755][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.04-23.35.42:829][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.04-23.35.42:904][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.04-23.35.42:977][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.04-23.35.43:053][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.04-23.35.43:131][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.04-23.35.43:209][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.04-23.35.43:359][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.04-23.35.43:359][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.04-23.35.43:418][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.04-23.35.43:550][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.04-23.35.43:601][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.04-23.35.43:694][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.04-23.35.43:773][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.04-23.35.43:846][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.04-23.35.43:927][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.04-23.35.43:927][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.04-23.35.44:677][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.04-23.35.44:795][  0]LogDerivedDataCache: Loaded boot cache 0.12s 93MB C:/Users/Pyos/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.04-23.35.44:795][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Pyos/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.04-23.35.44:795][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.04-23.35.44:795][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.04-23.35.44:795][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.04-23.35.44:795][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.04-23.35.44:814][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.04-23.35.44:827][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Pyos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.04-23.35.44:840][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.04-23.35.44:840][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.04-23.35.44:841][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.04-23.35.44:841][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.04-23.35.45:187][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2017.10.04-23.35.45:356][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.04-23.35.45:533][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.04-23.35.45:962][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.04-23.35.46:026][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.04-23.35.46:026][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.04-23.35.46:026][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.04-23.35.46:026][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.04-23.35.46:026][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.04-23.35.46:475][  0]LogNetVersion: AresProject1_0 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1364426671)
+[2017.10.04-23.35.46:740][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.039611 seconds
+[2017.10.04-23.35.46:747][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.04-23.35.46:747][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.04-23.35.46:747][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.04-23.35.46:842][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.04-23.35.50:205][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.04-23.35.50:255][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.04-23.35.51:125][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.04-23.35.51:693][  0]SourceControl: Source control is disabled
+[2017.10.04-23.35.51:915][  0]LogSourceControl: Warning: '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/' is not part of a Git repository
+[2017.10.04-23.35.52:961][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.04-23.35.53:318][  0]LogOcInput: OculusInput pre-init called
+[2017.10.04-23.35.53:675][  0]LogEngine: Initializing Engine...
+[2017.10.04-23.35.53:677][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.04-23.35.53:943][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.04-23.35.53:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.04-23.35.54:142][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.04-23.35.54:156][  0]LogInit: XAudio2 using 'Altoparlanti (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.04-23.35.54:176][  0]LogInit: FAudioDevice initialized.
+[2017.10.04-23.35.54:387][  0]LogDerivedDataCache: Saved boot cache 0.21s 93MB C:/Users/Pyos/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.04-23.35.54:392][  0]LogInit: Texture streaming: Enabled
+[2017.10.04-23.35.54:568][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.04-23.35.54:889][  0]LogInit: Transaction tracking system initialized
+[2017.10.04-23.35.55:367][  0]BlueprintLog: New page: Editor Load
+[2017.10.04-23.35.56:738][  0]LocalizationService: Localization service is disabled
+[2017.10.04-23.35.57:773][  0]LogConsoleResponse: Display: 
+[2017.10.04-23.35.57:995][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.04-23.35.57:995][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.04-23.35.57:995][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.04-23.35.58:993][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/' took 0.02s
+[2017.10.04-23.35.59:531][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.04-23.35.59:532][  0]LightingResults: New page: Lighting Build
+[2017.10.04-23.35.59:589][  0]MapCheck: New page: Map Check
+[2017.10.04-23.35.59:589][  0]LightingResults: New page: Lighting Build
+[2017.10.04-23.35.59:877][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.04-23.35.59:886][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.04-23.35.59:910][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.04-23.35.59:974][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.47ms to complete.
+[2017.10.04-23.35.59:974][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.443
+[2017.10.04-23.36.00:105][  0]LogCollectionManager: Loaded 0 collections in 0.001469 seconds
+[2017.10.04-23.36.00:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/Collections/' took 0.01s
+[2017.10.04-23.36.00:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Developers/Pyos/Collections/' took 0.01s
+[2017.10.04-23.36.00:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Collections/' took 0.01s
+[2017.10.04-23.36.00:218][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.04-23.36.00:228][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2386 classes and 500 folders.
+[2017.10.04-23.36.00:323][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.10.04-23.36.00:373][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.04-23.36.00:436][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.04-23.36.00:515][  0]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.04-23.36.00:521][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.04-23.36.00:523][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.04-23.36.00:720][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.04-23.36.00:720][  0]LogLoad: (Engine Initialization) Total time: 24.57 seconds
+[2017.10.04-23.36.00:720][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.04-23.36.00:720][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.04-23.36.00:720][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.04-23.36.00:732][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.04-23.36.00:750][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.04-23.36.00:799][  1]LogAssetRegistry: Asset discovery search completed in 15.6344 seconds
+[2017.10.04-23.36.00:801][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.04-23.36.00:801][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2017.10.04-23.36.00:876][  3]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:0).
+[2017.10.04-23.36.08:350][860]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2017.10.04-23.36.09:877][ 30]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.04-23.36.09:955][ 30]LogMetaData: Removing '/Game/Characters/Animations/ThirdPerson_AnimBPMars.ThirdPerson_AnimBPMars_C' ref from Metadata '/Game/ThirdPerson_AnimBPMars.PackageMetaData'
+[2017.10.04-23.36.09:955][ 30]LogMetaData: Removing '/Game/Characters/Animations/ThirdPerson_AnimBPMars.SKEL_ThirdPerson_AnimBPMars_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPerson_AnimBPMars.PackageMetaData'
+[2017.10.04-23.36.09:955][ 30]LogMetaData: Removing '/Game/Characters/Animations/ThirdPerson_AnimBPMars.SKEL_ThirdPerson_AnimBPMars_C:Speed' ref from Metadata '/Game/ThirdPerson_AnimBPMars.PackageMetaData'
+[2017.10.04-23.36.09:955][ 30]LogMetaData: Removing '/Game/Characters/Animations/ThirdPerson_AnimBPMars.SKEL_ThirdPerson_AnimBPMars_C:IsInAir?' ref from Metadata '/Game/ThirdPerson_AnimBPMars.PackageMetaData'
+[2017.10.04-23.36.09:955][ 30]LogMetaData: Removing '/Game/Characters/Animations/ThirdPerson_AnimBPMars.SKEL_ThirdPerson_AnimBPMars_C' ref from Metadata '/Game/ThirdPerson_AnimBPMars.PackageMetaData'
+[2017.10.04-23.36.09:955][ 30]LogMetaData: Removing '/Game/Characters/Animations/ThirdPerson_AnimBPMars.ThirdPerson_AnimBPMars_C:Speed' ref from Metadata '/Game/ThirdPerson_AnimBPMars.PackageMetaData'
+[2017.10.04-23.36.09:955][ 30]LogMetaData: Removing '/Game/Characters/Animations/ThirdPerson_AnimBPMars.ThirdPerson_AnimBPMars_C:IsInAir?' ref from Metadata '/Game/ThirdPerson_AnimBPMars.PackageMetaData'
+[2017.10.04-23.36.09:955][ 30]LogMetaData: Removing '/Game/Characters/Animations/ThirdPerson_AnimBPMars.ThirdPerson_AnimBPMars_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPerson_AnimBPMars.PackageMetaData'
+[2017.10.04-23.36.09:955][ 30]LogMetaData: Removing '/Game/Characters/Animations/ThirdPerson_AnimBPMars.ThirdPerson_AnimBPMars_C:ExecuteUbergraph_ThirdPerson_AnimBPMars' ref from Metadata '/Game/ThirdPerson_AnimBPMars.PackageMetaData'
+[2017.10.04-23.36.10:131][ 30]LogSavePackage: Save=104.17ms
+[2017.10.04-23.36.10:131][ 30]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_AnimBPMarsD658805840FCCA809EA41C821A91FFF5.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset'
+[2017.10.04-23.36.10:140][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset
+[2017.10.04-23.36.10:402][ 30]LogSavePackage: Save=87.29ms
+[2017.10.04-23.36.10:402][ 30]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonCharacterMars4F64D03D467776782E3C33A6397EF58A.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Blueprints/ThirdPersonCharacterMars.uasset'
+[2017.10.04-23.36.10:409][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Blueprints/ThirdPersonCharacterMars.uasset
+[2017.10.04-23.36.19:213][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_IdleRun_2DMars" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_IdleRun_2DMars.uasset" SILENT=true
+[2017.10.04-23.36.19:227][999]LogSavePackage: Save=11.90ms
+[2017.10.04-23.36.19:227][999]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_IdleRun_2DMars7ED969134F8F5C1B43B79499F76C8530.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_IdleRun_2DMars.uasset'
+[2017.10.04-23.36.19:235][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_IdleRun_2DMars.uasset
+[2017.10.04-23.36.19:473][999]LogSavePackage: Save=101.69ms
+[2017.10.04-23.36.19:473][999]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_AnimBPMars4C6332BA4D08A33FA07182A6C9A26122.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset'
+[2017.10.04-23.36.19:479][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset
+[2017.10.04-23.36.27:052][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_JumpMars" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_JumpMars.uasset" SILENT=true
+[2017.10.04-23.36.27:069][833]LogSavePackage: Save=15.24ms
+[2017.10.04-23.36.27:069][833]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_JumpMars286B75B44C095A085A7B32889D760B6B.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_JumpMars.uasset'
+[2017.10.04-23.36.27:072][833]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_JumpMars.uasset
+[2017.10.04-23.36.27:314][833]LogSavePackage: Save=102.47ms
+[2017.10.04-23.36.27:314][833]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_AnimBPMars9F381BD7465E659F33294BBA72451C10.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset'
+[2017.10.04-23.36.27:320][833]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset
+[2017.10.04-23.36.31:993][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonIdleMars" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonIdleMars.uasset" SILENT=true
+[2017.10.04-23.36.32:011][354]LogSavePackage: Save=15.42ms
+[2017.10.04-23.36.32:011][354]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonIdleMarsF0652D2D4894D1E15379A68D87A05ADC.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonIdleMars.uasset'
+[2017.10.04-23.36.32:017][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonIdleMars.uasset
+[2017.10.04-23.36.32:141][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_IdleRun_2DMars" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_IdleRun_2DMars.uasset" SILENT=true
+[2017.10.04-23.36.32:156][354]LogSavePackage: Save=5.36ms
+[2017.10.04-23.36.32:156][354]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_IdleRun_2DMars1F1F1EF148E4FB1A3CA5C98B0C9390F2.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_IdleRun_2DMars.uasset'
+[2017.10.04-23.36.32:160][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_IdleRun_2DMars.uasset
+[2017.10.04-23.36.36:958][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonJump_LoopMars" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonJump_LoopMars.uasset" SILENT=true
+[2017.10.04-23.36.36:975][886]LogSavePackage: Save=14.61ms
+[2017.10.04-23.36.36:975][886]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonJump_LoopMars894439984A46F0466452ECA053BB141E.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonJump_LoopMars.uasset'
+[2017.10.04-23.36.36:981][886]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonJump_LoopMars.uasset
+[2017.10.04-23.36.37:230][886]LogSavePackage: Save=103.26ms
+[2017.10.04-23.36.37:230][886]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_AnimBPMarsA65D4A5D43800F13A5A2EAB308DBDA53.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset'
+[2017.10.04-23.36.37:236][886]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset
+[2017.10.04-23.36.42:670][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonJump_StartMars" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonJump_StartMars.uasset" SILENT=true
+[2017.10.04-23.36.42:688][488]LogSavePackage: Save=15.95ms
+[2017.10.04-23.36.42:688][488]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonJump_StartMars5B37A29E4B69DFB0BB255EBF1387CD4C.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonJump_StartMars.uasset'
+[2017.10.04-23.36.42:694][488]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonJump_StartMars.uasset
+[2017.10.04-23.36.42:937][488]LogSavePackage: Save=102.28ms
+[2017.10.04-23.36.42:938][488]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_AnimBPMars420CC6684987D7DDABE3AD8B45957839.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset'
+[2017.10.04-23.36.42:947][488]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset
+[2017.10.04-23.36.55:758][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonRunMars" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonRunMars.uasset" SILENT=true
+[2017.10.04-23.36.55:775][845]LogSavePackage: Save=14.25ms
+[2017.10.04-23.36.55:775][845]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonRunMars19EDC0D3403091EC5DED7BB28B7A2900.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonRunMars.uasset'
+[2017.10.04-23.36.55:781][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonRunMars.uasset
+[2017.10.04-23.36.55:900][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_IdleRun_2DMars" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_IdleRun_2DMars.uasset" SILENT=true
+[2017.10.04-23.36.55:912][845]LogSavePackage: Save=3.61ms
+[2017.10.04-23.36.55:912][845]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_IdleRun_2DMars090C4D054CFABD7193C842A43E9882A7.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_IdleRun_2DMars.uasset'
+[2017.10.04-23.36.55:916][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_IdleRun_2DMars.uasset
+[2017.10.04-23.37.01:973][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonWalkMars" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonWalkMars.uasset" SILENT=true
+[2017.10.04-23.37.01:990][476]LogSavePackage: Save=14.15ms
+[2017.10.04-23.37.01:990][476]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonWalkMars5B2124304A3B83FC2CD9EF86940F1C71.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonWalkMars.uasset'
+[2017.10.04-23.37.01:996][476]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPersonWalkMars.uasset
+[2017.10.04-23.37.02:109][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_IdleRun_2DMars" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_IdleRun_2DMars.uasset" SILENT=true
+[2017.10.04-23.37.02:120][476]LogSavePackage: Save=3.41ms
+[2017.10.04-23.37.02:120][476]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_IdleRun_2DMarsC5F9C9CD4D406FA3B308C8B5E0EC4BFB.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_IdleRun_2DMars.uasset'
+[2017.10.04-23.37.02:123][476]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/ThirdPerson_IdleRun_2DMars.uasset
+[2017.10.04-23.37.05:835][867]LogSavePackage: Save=12.82ms
+[2017.10.04-23.37.05:835][867]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_IdleRun_2DMarsD2CAFA2A4389302D1C32479EC8C2A334.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_IdleRun_2DMars.uasset'
+[2017.10.04-23.37.05:844][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_IdleRun_2DMars.uasset
+[2017.10.04-23.37.05:885][867]LogSavePackage: Save=13.71ms
+[2017.10.04-23.37.05:885][867]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_JumpMarsAEAF0E9C408EDEF60CD32C9CF3B0808C.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_JumpMars.uasset'
+[2017.10.04-23.37.05:892][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_JumpMars.uasset
+[2017.10.04-23.37.05:949][867]LogSavePackage: Save=16.21ms
+[2017.10.04-23.37.05:949][867]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonIdleMars98C9DB9A4F00CF4FD38C8692C6EBCE7B.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonIdleMars.uasset'
+[2017.10.04-23.37.05:955][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonIdleMars.uasset
+[2017.10.04-23.37.05:994][867]LogSavePackage: Save=13.83ms
+[2017.10.04-23.37.05:994][867]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonJump_LoopMars05806CF74992B93C0B2AEFB2857CB7B0.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_LoopMars.uasset'
+[2017.10.04-23.37.06:002][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_LoopMars.uasset
+[2017.10.04-23.37.06:040][867]LogSavePackage: Save=15.63ms
+[2017.10.04-23.37.06:040][867]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonJump_StartMars438E61154C864507A6BB8D9EBE928E8C.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_StartMars.uasset'
+[2017.10.04-23.37.06:047][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_StartMars.uasset
+[2017.10.04-23.37.06:083][867]LogSavePackage: Save=14.63ms
+[2017.10.04-23.37.06:083][867]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonRunMars027DBE80428F3AC31266B98AD46D9C86.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonRunMars.uasset'
+[2017.10.04-23.37.06:089][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonRunMars.uasset
+[2017.10.04-23.37.06:133][867]LogSavePackage: Save=16.93ms
+[2017.10.04-23.37.06:134][867]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonWalkMarsE4FE235744EC923FB6DD42A5354DC666.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonWalkMars.uasset'
+[2017.10.04-23.37.06:144][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonWalkMars.uasset
+[2017.10.04-23.37.06:669][867]LogSavePackage: Save=106.53ms
+[2017.10.04-23.37.06:669][867]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_AnimBPMarsDF19D67942515125BEBEAC872BBAF028.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset'
+[2017.10.04-23.37.06:676][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset
+[2017.10.04-23.37.06:781][867]LogSavePackage: Save=94.06ms
+[2017.10.04-23.37.06:781][867]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_AnimBPMars710D9AD84EF8CB96D9AAB2A283F0F8F2.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset'
+[2017.10.04-23.37.06:784][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset
+[2017.10.04-23.37.06:894][867]LogSavePackage: Save=96.66ms
+[2017.10.04-23.37.06:894][867]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_AnimBPMarsB5AFCE204336F5704AEAA2A21C217A69.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset'
+[2017.10.04-23.37.06:898][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset
+[2017.10.04-23.37.07:003][867]LogSavePackage: Save=92.87ms
+[2017.10.04-23.37.07:003][867]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_AnimBPMars1DB69FF04572BD21BB487F9CC8FAE95E.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset'
+[2017.10.04-23.37.07:006][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset
+[2017.10.04-23.37.38:855][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Material/DefaultGrey" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/DefaultGrey.uasset" SILENT=true
+[2017.10.04-23.37.38:871][371]LogSavePackage: Save=13.35ms
+[2017.10.04-23.37.38:871][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/DefaultGrey163137A64EFF9A7D1BFF418C22551B82.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/DefaultGrey.uasset'
+[2017.10.04-23.37.38:877][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/DefaultGrey.uasset
+[2017.10.04-23.37.38:897][371]LogSavePackage: Save=1.80ms
+[2017.10.04-23.37.38:897][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/DefaultGrey22117BE74DED0707F1CCA0B886260838.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Materials/DefaultGrey.uasset'
+[2017.10.04-23.37.38:904][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Materials/DefaultGrey.uasset
+[2017.10.04-23.37.38:953][371]LogSavePackage: Save=29.12ms
+[2017.10.04-23.37.38:953][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_SpaceSoldier_DefaultC41BBD2D4DD9F7227FDFB1B7B445ECCC.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/M_SpaceSoldier_Default.uasset'
+[2017.10.04-23.37.38:959][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/M_SpaceSoldier_Default.uasset
+[2017.10.04-23.37.38:996][371]LogSavePackage: Save=14.28ms
+[2017.10.04-23.37.38:996][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head1FC702174F24822E5E9345BC3963C43D.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head.uasset'
+[2017.10.04-23.37.39:003][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head.uasset
+[2017.10.04-23.37.39:044][371]LogSavePackage: Save=14.19ms
+[2017.10.04-23.37.39:044][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_2272C073B4DAFDAEC3A229485D40F40EE.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_2.uasset'
+[2017.10.04-23.37.39:052][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_2.uasset
+[2017.10.04-23.37.39:088][371]LogSavePackage: Save=15.45ms
+[2017.10.04-23.37.39:088][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_32A7A562C4B76A989960143BFAFA48C8F.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_3.uasset'
+[2017.10.04-23.37.39:094][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_3.uasset
+[2017.10.04-23.37.39:109][371]LogSavePackage: Save=2.28ms
+[2017.10.04-23.37.39:110][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_3FD911DDB40F2955732F7718355110346.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Materials/MI_SciFi_SpaceSoldier_Head_3.uasset'
+[2017.10.04-23.37.39:120][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Materials/MI_SciFi_SpaceSoldier_Head_3.uasset
+[2017.10.04-23.37.39:155][371]LogSavePackage: Save=16.39ms
+[2017.10.04-23.37.39:155][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_LegsAEDEA9DD43AE42CECEA3E4A89D10A2A5.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs.uasset'
+[2017.10.04-23.37.39:161][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs.uasset
+[2017.10.04-23.37.39:194][371]LogSavePackage: Save=14.07ms
+[2017.10.04-23.37.39:194][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_23AF6520C485373007996EDBB6D20A099.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_2.uasset'
+[2017.10.04-23.37.39:200][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_2.uasset
+[2017.10.04-23.37.39:233][371]LogSavePackage: Save=13.62ms
+[2017.10.04-23.37.39:233][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_36D63F8C44C516D91EF4ECCA7EC3F97AF.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_3.uasset'
+[2017.10.04-23.37.39:239][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_3.uasset
+[2017.10.04-23.37.39:256][371]LogSavePackage: Save=1.94ms
+[2017.10.04-23.37.39:256][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_32A0E168C4D7A27EC5237D6AF92B1449E.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Materials/MI_SciFi_SpaceSoldier_Legs_3.uasset'
+[2017.10.04-23.37.39:263][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Materials/MI_SciFi_SpaceSoldier_Legs_3.uasset
+[2017.10.04-23.37.39:298][371]LogSavePackage: Save=15.88ms
+[2017.10.04-23.37.39:298][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_TorsoF41CCBDD455526E122948BB6FE547EA6.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso.uasset'
+[2017.10.04-23.37.39:304][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso.uasset
+[2017.10.04-23.37.39:339][371]LogSavePackage: Save=13.89ms
+[2017.10.04-23.37.39:339][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_275ADC9C0475BB3F0CEEDCCBB21D849EF.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_2.uasset'
+[2017.10.04-23.37.39:346][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_2.uasset
+[2017.10.04-23.37.39:381][371]LogSavePackage: Save=14.43ms
+[2017.10.04-23.37.39:381][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_3975EF5EF41CEA9CB3ACB58964C72EB37.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_3.uasset'
+[2017.10.04-23.37.39:388][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_3.uasset
+[2017.10.04-23.37.39:404][371]LogSavePackage: Save=2.57ms
+[2017.10.04-23.37.39:404][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_36A9C464649DB1FD3B9088DB4B0A84A2C.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Materials/MI_SciFi_SpaceSoldier_Torso_3.uasset'
+[2017.10.04-23.37.39:412][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Materials/MI_SciFi_SpaceSoldier_Torso_3.uasset
+[2017.10.04-23.37.39:876][371]LogSavePackage: Save=41.86ms
+[2017.10.04-23.37.39:876][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/SK_SciFi_Space_Soldier9EED412E4CCF3E6B02EFC9B55BAE9AB5.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier.uasset'
+[2017.10.04-23.37.39:880][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier.uasset
+[2017.10.04-23.37.39:925][371]LogSavePackage: Save=31.82ms
+[2017.10.04-23.37.39:925][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/SK_SciFi_Space_SoldierA980E8194C885DD994A634B4F772D571.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier.uasset'
+[2017.10.04-23.37.39:928][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier.uasset
+[2017.10.04-23.37.39:972][371]LogSavePackage: Save=30.85ms
+[2017.10.04-23.37.39:972][371]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/SK_SciFi_Space_SoldierE93E23384579D2297819C6A2E1E7C019.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier.uasset'
+[2017.10.04-23.37.39:976][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier.uasset
+[2017.10.04-23.38.09:349][770]LogSavePackage: Save=3.27ms
+[2017.10.04-23.38.09:349][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/UE4_Mannequin_SkeletonC0355B58411AF79FA2F6C8B404873F4E.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2017.10.04-23.38.09:356][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2017.10.04-23.38.09:447][770]LogSavePackage: Save=65.00ms
+[2017.10.04-23.38.09:447][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/SK_Mannequin954AAD82441E1E8708E2F2984728AF6E.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Mesh/SK_Mannequin.uasset'
+[2017.10.04-23.38.09:453][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Mesh/SK_Mannequin.uasset
+[2017.10.04-23.38.09:478][770]LogSavePackage: Save=15.40ms
+[2017.10.04-23.38.09:478][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/SK_Mannequin_PhysicsAsset1CCAE98D4E029F6A387B6F960044183C.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2017.10.04-23.38.09:484][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2017.10.04-23.38.09:517][770]LogSavePackage: Save=11.89ms
+[2017.10.04-23.38.09:517][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_UE4Man_ChestLogo4B0F99474F94852729954ABC263DCF2C.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/M_UE4Man_ChestLogo.uasset'
+[2017.10.04-23.38.09:524][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2017.10.04-23.38.09:556][770]LogSavePackage: Save=12.94ms
+[2017.10.04-23.38.09:556][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/UE4Man_Logo_N639CDE3D4B39582229C2EA8FAECFAC5E.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Textures/UE4Man_Logo_N.uasset'
+[2017.10.04-23.38.09:564][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Textures/UE4Man_Logo_N.uasset
+[2017.10.04-23.38.09:608][770]LogSavePackage: Save=23.45ms
+[2017.10.04-23.38.09:608][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_UE4Man_BodyEEAB6C8C45C1942A0C2E6ABB15D90A49.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/M_UE4Man_Body.uasset'
+[2017.10.04-23.38.09:614][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/M_UE4Man_Body.uasset
+[2017.10.04-23.38.09:645][770]LogSavePackage: Save=13.99ms
+[2017.10.04-23.38.09:645][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/UE4_Mannequin_MAT_MASKA5DE56D6143BC897DD73B87972EF9ED77.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2017.10.04-23.38.09:651][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2017.10.04-23.38.09:750][770]LogSavePackage: Save=77.72ms
+[2017.10.04-23.38.09:750][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/UE4_Mannequin__normals5AF25B20421B6FDB06B08FAA4CACC4E2.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Textures/UE4_Mannequin__normals.uasset'
+[2017.10.04-23.38.09:759][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Textures/UE4_Mannequin__normals.uasset
+[2017.10.04-23.38.09:771][770]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.10.04-23.38.09:891][770]LogSavePackage: Save=18.88ms
+[2017.10.04-23.38.09:891][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ML_SoftMetal_UE4DCEB08D3432B7B7BDE582997F4B2DE15.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2017.10.04-23.38.09:899][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2017.10.04-23.38.09:933][770]LogSavePackage: Save=12.34ms
+[2017.10.04-23.38.09:933][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_ML_Aluminum01_N9EF0C2AF432952B3FC2D599C04B61E4B.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2017.10.04-23.38.09:940][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2017.10.04-23.38.09:974][770]LogSavePackage: Save=17.58ms
+[2017.10.04-23.38.09:975][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_ML_Aluminum01CED7743B401CDED539A616ADFD73BC67.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2017.10.04-23.38.09:984][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2017.10.04-23.38.09:998][770]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.10.04-23.38.10:069][770]LogSavePackage: Save=12.94ms
+[2017.10.04-23.38.10:069][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ML_Plastic_Shiny_Beige_LOGO7A2710414279FCFC401C6783C945C10F.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2017.10.04-23.38.10:077][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2017.10.04-23.38.10:109][770]LogSavePackage: Save=12.46ms
+[2017.10.04-23.38.10:109][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/UE4_LOGO_CARDE63F628243B33F1B16506E8385364F20.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Textures/UE4_LOGO_CARD.uasset'
+[2017.10.04-23.38.10:116][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Textures/UE4_LOGO_CARD.uasset
+[2017.10.04-23.38.10:127][770]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.10.04-23.38.10:230][770]LogSavePackage: Save=18.21ms
+[2017.10.04-23.38.10:230][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ML_Plastic_Shiny_Beige1BB2CE504EAC314DCD42D99CBF8ED854.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2017.10.04-23.38.10:240][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2017.10.04-23.38.10:257][770]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.10.04-23.38.10:360][770]LogSavePackage: Save=23.72ms
+[2017.10.04-23.38.10:360][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ML_GlossyBlack_Latex_UE4F858EB5F49C7EA833541FFA3876E9349.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2017.10.04-23.38.10:369][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2017.10.04-23.38.10:412][770]LogSavePackage: Save=15.87ms
+[2017.10.04-23.38.10:412][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_ML_Rubber_Blue_01_N0BBEA92D4276FD2FAA54D9876E78DDA6.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2017.10.04-23.38.10:426][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2017.10.04-23.38.10:472][770]LogSavePackage: Save=20.44ms
+[2017.10.04-23.38.10:472][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_ML_Rubber_Blue_01_D303F45A94477D8DF8031888F5377A163.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2017.10.04-23.38.10:481][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/MannequinStandar/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2017.10.04-23.38.12:142][770]LogSavePackage: Save=22.86ms
+[2017.10.04-23.38.12:142][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonIdle88B515AA4772B4959F89FAA43773073F.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonIdle.uasset'
+[2017.10.04-23.38.12:147][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonIdle.uasset
+[2017.10.04-23.38.12:212][770]LogSavePackage: Save=23.11ms
+[2017.10.04-23.38.12:212][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonJump_End39991F154F9B995F3764F798A777FAAD.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_End.uasset'
+[2017.10.04-23.38.12:217][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_End.uasset
+[2017.10.04-23.38.12:281][770]LogSavePackage: Save=23.41ms
+[2017.10.04-23.38.12:281][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonJump_Loop287AD74849ED4590C0F24982778B76D7.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_Loop.uasset'
+[2017.10.04-23.38.12:287][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_Loop.uasset
+[2017.10.04-23.38.12:355][770]LogSavePackage: Save=23.88ms
+[2017.10.04-23.38.12:355][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonJump_StartF0C4F54546530CB3017CE39D6FE704D3.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_Start.uasset'
+[2017.10.04-23.38.12:359][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_Start.uasset
+[2017.10.04-23.38.12:429][770]LogSavePackage: Save=21.64ms
+[2017.10.04-23.38.12:429][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonRun063F1F8D4F2B486C481149AA30528EF8.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonRun.uasset'
+[2017.10.04-23.38.12:437][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonRun.uasset
+[2017.10.04-23.38.12:504][770]LogSavePackage: Save=23.90ms
+[2017.10.04-23.38.12:504][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonWalk16864EED4CFE6785046619B1B454B93A.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonWalk.uasset'
+[2017.10.04-23.38.12:509][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonWalk.uasset
+[2017.10.04-23.38.12:741][770]LogSavePackage: Save=157.19ms
+[2017.10.04-23.38.12:741][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_AnimBP2F26257D494301FB60EDD292D8D32FBC.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBP.uasset'
+[2017.10.04-23.38.12:750][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBP.uasset
+[2017.10.04-23.38.12:815][770]LogSavePackage: Save=18.23ms
+[2017.10.04-23.38.12:815][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_IdleRun_2DF12BECC4456DF85F98380388B5168E8E.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2017.10.04-23.38.12:820][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_IdleRun_2D.uasset
+[2017.10.04-23.38.12:884][770]LogSavePackage: Save=23.10ms
+[2017.10.04-23.38.12:884][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_JumpB105A5C8474A656396B8A28D0D6D7BAA.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_Jump.uasset'
+[2017.10.04-23.38.12:889][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_Jump.uasset
+[2017.10.04-23.38.13:087][770]LogSavePackage: Save=132.18ms
+[2017.10.04-23.38.13:087][770]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonCharacter47C57E2E4497DB0D96519983A018AB68.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Blueprints/ThirdPersonCharacter.uasset'
+[2017.10.04-23.38.13:100][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Blueprints/ThirdPersonCharacter.uasset
+[2017.10.04-23.38.31:866][801]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.04-23.38.51:713][962]LogAIModule: Creating AISystem for world TestScene
+[2017.10.04-23.38.52:623][962]LogSavePackage: Save=3.36ms
+[2017.10.04-23.38.52:623][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/SK_SciFi_Space_Soldier_RetargetPose16E608324C872E4F4CB64EB29566A30F.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier_RetargetPose.uasset'
+[2017.10.04-23.38.52:630][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier_RetargetPose.uasset
+[2017.10.04-23.38.52:693][962]LogSavePackage: Save=41.25ms
+[2017.10.04-23.38.52:693][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/SK_SciFi_Space_Soldier243267CB4BA46F98EDA20EACFB9F4376.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier.uasset'
+[2017.10.04-23.38.52:699][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier.uasset
+[2017.10.04-23.38.52:712][962]LogSavePackage: Save=5.33ms
+[2017.10.04-23.38.52:712][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/SK_SciFi_Space_Soldier_SkeletonA88DD7E24550B7A011C92CB5FA2EDBE4.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier_Skeleton.uasset'
+[2017.10.04-23.38.52:720][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier_Skeleton.uasset
+[2017.10.04-23.38.52:738][962]LogSavePackage: Save=10.83ms
+[2017.10.04-23.38.52:738][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/SK_SciFi_Space_Soldier_PhysicsAsset39F911E94E2A446133CE52A2861AE6AD.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier_PhysicsAsset.uasset'
+[2017.10.04-23.38.52:745][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier_PhysicsAsset.uasset
+[2017.10.04-23.38.52:755][962]LogSavePackage: Save=3.23ms
+[2017.10.04-23.38.52:755][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Black9A58692046DC101AB0ED39B4F4E2E7C6.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Black.uasset'
+[2017.10.04-23.38.52:761][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Black.uasset
+[2017.10.04-23.38.52:954][962]LogSavePackage: Save=179.04ms
+[2017.10.04-23.38.52:954][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Legs_ORMEC2B4C7048910970A2DA538122ABEE17.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Legs_ORM.uasset'
+[2017.10.04-23.38.52:960][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Legs_ORM.uasset
+[2017.10.04-23.38.53:188][962]LogSavePackage: Save=213.38ms
+[2017.10.04-23.38.53:188][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Legs_N065254224A907FA9E1E4DCA405DCD012.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Legs_N.uasset'
+[2017.10.04-23.38.53:193][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Legs_N.uasset
+[2017.10.04-23.38.53:402][962]LogSavePackage: Save=193.86ms
+[2017.10.04-23.38.53:402][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Legs_D8726A4904307AB274C29FAB8133B35D7.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Legs_D.uasset'
+[2017.10.04-23.38.53:411][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Legs_D.uasset
+[2017.10.04-23.38.53:450][962]LogSavePackage: Save=13.46ms
+[2017.10.04-23.38.53:450][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Legs_CMB96F34AF49E0F7C803BF3F860F83A924.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Legs_CM.uasset'
+[2017.10.04-23.38.53:455][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Legs_CM.uasset
+[2017.10.04-23.38.53:616][962]LogSavePackage: Save=143.39ms
+[2017.10.04-23.38.53:616][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Head_ORM51E4CBA0435345DDE65B1E907ED2812A.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_ORM.uasset'
+[2017.10.04-23.38.53:622][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_ORM.uasset
+[2017.10.04-23.38.53:863][962]LogSavePackage: Save=225.19ms
+[2017.10.04-23.38.53:863][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Head_N9CF82E544F44B61B7CE8B8AC36EEE358.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_N.uasset'
+[2017.10.04-23.38.53:871][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_N.uasset
+[2017.10.04-23.38.53:892][962]LogSavePackage: Save=8.86ms
+[2017.10.04-23.38.53:892][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Head_EB0EEE0424F9B15CC6604609B9D827EF0.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_E.uasset'
+[2017.10.04-23.38.53:898][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_E.uasset
+[2017.10.04-23.38.54:097][962]LogSavePackage: Save=181.67ms
+[2017.10.04-23.38.54:098][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Head_D2BCBBF08441EE1F7A64D169167D7AF29.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_D.uasset'
+[2017.10.04-23.38.54:109][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_D.uasset
+[2017.10.04-23.38.54:136][962]LogSavePackage: Save=14.97ms
+[2017.10.04-23.38.54:136][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Head_CM2557F55A45B418EEC9B749A4184CC4D5.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_CM.uasset'
+[2017.10.04-23.38.54:143][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_CM.uasset
+[2017.10.04-23.38.54:325][962]LogSavePackage: Save=169.63ms
+[2017.10.04-23.38.54:325][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Torso_ORME575F8A04306937D5FECC68AA500C43A.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_ORM.uasset'
+[2017.10.04-23.38.54:331][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_ORM.uasset
+[2017.10.04-23.38.54:592][962]LogSavePackage: Save=242.85ms
+[2017.10.04-23.38.54:592][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Torso_N9D16EB0F4944FAB790C313AB60628CC3.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_N.uasset'
+[2017.10.04-23.38.54:600][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_N.uasset
+[2017.10.04-23.38.54:620][962]LogSavePackage: Save=7.92ms
+[2017.10.04-23.38.54:620][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Torso_E196A0B2B4EF2C975F9EDC093F725C1A5.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_E.uasset'
+[2017.10.04-23.38.54:625][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_E.uasset
+[2017.10.04-23.38.54:794][962]LogSavePackage: Save=150.86ms
+[2017.10.04-23.38.54:795][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Torso_D8071A52347988C462B5B058735883E2F.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_D.uasset'
+[2017.10.04-23.38.54:802][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_D.uasset
+[2017.10.04-23.38.54:824][962]LogSavePackage: Save=11.31ms
+[2017.10.04-23.38.54:824][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/T_SpaceSoldier_Armor_B_Torso_CM3F67D8D74997B61820D6E9BF1A94DBCB.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_CM.uasset'
+[2017.10.04-23.38.54:833][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_CM.uasset
+[2017.10.04-23.38.54:973][962]LogSavePackage: Save=35.81ms
+[2017.10.04-23.38.54:973][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/TestScene9610C2384A9A4091938389B4D659E1D6.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Scenes/TestScene.umap'
+[2017.10.04-23.38.54:979][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Scenes/TestScene.umap
+[2017.10.04-23.38.54:982][962]LogFileHelpers: Saving map 'TestScene' took 0.145
+[2017.10.04-23.38.55:000][962]LogSavePackage: Save=13.11ms
+[2017.10.04-23.38.55:000][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/TestScene_BuiltDataBD3134D845B218707001FE99C1A8639F.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Scenes/TestScene_BuiltData.uasset'
+[2017.10.04-23.38.55:006][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Scenes/TestScene_BuiltData.uasset
+[2017.10.04-23.38.56:237][962]LogSavePackage: Save=82.88ms
+[2017.10.04-23.38.56:237][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonCharacterMarsE632327E4227EDAC5D5E979F17E90A47.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Blueprints/ThirdPersonCharacterMars.uasset'
+[2017.10.04-23.38.56:243][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Blueprints/ThirdPersonCharacterMars.uasset
+[2017.10.04-23.38.56:380][962]LogSavePackage: Save=104.87ms
+[2017.10.04-23.38.56:380][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_AnimBPMars35D1D4E946095566CD6A54B28EAA302A.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset'
+[2017.10.04-23.38.56:390][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_AnimBPMars.uasset
+[2017.10.04-23.38.56:405][962]LogSavePackage: Save=3.37ms
+[2017.10.04-23.38.56:405][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_IdleRun_2DMars1D924CB540987F5FAB2E7CAEA35F00C0.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_IdleRun_2DMars.uasset'
+[2017.10.04-23.38.56:408][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_IdleRun_2DMars.uasset
+[2017.10.04-23.38.56:431][962]LogSavePackage: Save=5.04ms
+[2017.10.04-23.38.56:431][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPerson_JumpMars86F8C83D43885BF73C58A59CC0061414.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_JumpMars.uasset'
+[2017.10.04-23.38.56:435][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPerson_JumpMars.uasset
+[2017.10.04-23.38.56:458][962]LogSavePackage: Save=8.49ms
+[2017.10.04-23.38.56:458][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonIdleMars92B53FC344E1F7FD9BD0DDA4319DA455.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonIdleMars.uasset'
+[2017.10.04-23.38.56:461][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonIdleMars.uasset
+[2017.10.04-23.38.56:484][962]LogSavePackage: Save=6.89ms
+[2017.10.04-23.38.56:484][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonJump_LoopMars02C2249F438BEC95BE54CBA7D5722F83.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_LoopMars.uasset'
+[2017.10.04-23.38.56:488][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_LoopMars.uasset
+[2017.10.04-23.38.56:514][962]LogSavePackage: Save=7.03ms
+[2017.10.04-23.38.56:514][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonJump_StartMarsB6D266C44F71F091142A8B9F16BD65AD.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_StartMars.uasset'
+[2017.10.04-23.38.56:519][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonJump_StartMars.uasset
+[2017.10.04-23.38.56:540][962]LogSavePackage: Save=6.17ms
+[2017.10.04-23.38.56:540][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonRunMarsE5B0F77042EB78ADE85091B8DB1E0FB2.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonRunMars.uasset'
+[2017.10.04-23.38.56:544][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonRunMars.uasset
+[2017.10.04-23.38.56:568][962]LogSavePackage: Save=5.28ms
+[2017.10.04-23.38.56:568][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/ThirdPersonWalkMars584CC41845B75BE856B0E4814F77522F.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonWalkMars.uasset'
+[2017.10.04-23.38.56:571][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Animations/ThirdPersonWalkMars.uasset
+[2017.10.04-23.38.56:592][962]LogSavePackage: Save=4.05ms
+[2017.10.04-23.38.56:592][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs853EF4B8497BFB9E9B5D0DAFF2A512BF.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs.uasset'
+[2017.10.04-23.38.56:595][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs.uasset
+[2017.10.04-23.38.56:612][962]LogSavePackage: Save=4.21ms
+[2017.10.04-23.38.56:612][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_2ACF6F3C94BFE62A29B3696A4383F9E91.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_2.uasset'
+[2017.10.04-23.38.56:616][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_2.uasset
+[2017.10.04-23.38.56:635][962]LogSavePackage: Save=3.75ms
+[2017.10.04-23.38.56:635][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_3E31E767D4A61A74493C19281E0C54F24.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_3.uasset'
+[2017.10.04-23.38.56:639][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_3.uasset
+[2017.10.04-23.38.56:657][962]LogSavePackage: Save=4.08ms
+[2017.10.04-23.38.56:657][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_LegsCE1A58CF49EBBCCEA51F54987E374435.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs.uasset'
+[2017.10.04-23.38.56:660][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs.uasset
+[2017.10.04-23.38.56:675][962]LogSavePackage: Save=4.34ms
+[2017.10.04-23.38.56:675][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_23E0732FF4A53C7938BDE50AA9849D69A.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_2.uasset'
+[2017.10.04-23.38.56:678][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_2.uasset
+[2017.10.04-23.38.56:698][962]LogSavePackage: Save=3.69ms
+[2017.10.04-23.38.56:698][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_3610DCFFD465E72EB07E826A5080FE77F.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_3.uasset'
+[2017.10.04-23.38.56:702][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_3.uasset
+[2017.10.04-23.38.56:722][962]LogSavePackage: Save=6.10ms
+[2017.10.04-23.38.56:722][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_LegsD92D93D94D64B632762FFEA465B04AB1.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs.uasset'
+[2017.10.04-23.38.56:726][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs.uasset
+[2017.10.04-23.38.56:742][962]LogSavePackage: Save=3.79ms
+[2017.10.04-23.38.56:742][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_2E2A827FE4B0BAFD1C319A1BBB2D8F2F3.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_2.uasset'
+[2017.10.04-23.38.56:745][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_2.uasset
+[2017.10.04-23.38.56:763][962]LogSavePackage: Save=3.72ms
+[2017.10.04-23.38.56:763][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_37DFFCDDE4BD7DA44959D2F94EE4A3CB7.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_3.uasset'
+[2017.10.04-23.38.56:767][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_3.uasset
+[2017.10.04-23.38.56:785][962]LogSavePackage: Save=5.38ms
+[2017.10.04-23.38.56:785][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_LegsF5599DB045A46224C79F9B92138272B2.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs.uasset'
+[2017.10.04-23.38.56:789][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs.uasset
+[2017.10.04-23.38.56:805][962]LogSavePackage: Save=4.88ms
+[2017.10.04-23.38.56:805][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_2EDF924C54E610ADA1AA0FD84E12D5FF0.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_2.uasset'
+[2017.10.04-23.38.56:808][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_2.uasset
+[2017.10.04-23.38.56:825][962]LogSavePackage: Save=3.91ms
+[2017.10.04-23.38.56:825][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_312DA1DA84D65A5C9839E3198926ADFE7.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_3.uasset'
+[2017.10.04-23.38.56:828][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_3.uasset
+[2017.10.04-23.38.56:845][962]LogSavePackage: Save=3.77ms
+[2017.10.04-23.38.56:845][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_LegsDCA6D50040EAFF080455D9896D887DE3.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs.uasset'
+[2017.10.04-23.38.56:848][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs.uasset
+[2017.10.04-23.38.56:867][962]LogSavePackage: Save=3.72ms
+[2017.10.04-23.38.56:867][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_2E684BC044BE967F36D36A5AEA2BDD034.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_2.uasset'
+[2017.10.04-23.38.56:871][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_2.uasset
+[2017.10.04-23.38.56:889][962]LogSavePackage: Save=4.73ms
+[2017.10.04-23.38.56:889][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Legs_35C4BA2174D17F9CE0BF48F8A77242AB2.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_3.uasset'
+[2017.10.04-23.38.56:892][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Legs_3.uasset
+[2017.10.04-23.38.56:910][962]LogSavePackage: Save=3.75ms
+[2017.10.04-23.38.56:910][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head1AA10EA34A8FC7B0A5298F895869C288.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head.uasset'
+[2017.10.04-23.38.56:913][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head.uasset
+[2017.10.04-23.38.56:933][962]LogSavePackage: Save=4.44ms
+[2017.10.04-23.38.56:934][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_20C33CEBE44170514A0F33F94BFEF97FF.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_2.uasset'
+[2017.10.04-23.38.56:938][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_2.uasset
+[2017.10.04-23.38.56:955][962]LogSavePackage: Save=5.17ms
+[2017.10.04-23.38.56:955][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_398D5157240D51F3CC2682CA4C75D69A9.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_3.uasset'
+[2017.10.04-23.38.56:958][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_3.uasset
+[2017.10.04-23.38.56:973][962]LogSavePackage: Save=3.63ms
+[2017.10.04-23.38.56:973][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head66730C56444F9344F75200BBED12ED76.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head.uasset'
+[2017.10.04-23.38.56:976][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head.uasset
+[2017.10.04-23.38.56:995][962]LogSavePackage: Save=3.86ms
+[2017.10.04-23.38.56:995][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_211F0575F461292D73A8688A7E6D5CD92.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_2.uasset'
+[2017.10.04-23.38.56:998][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_2.uasset
+[2017.10.04-23.38.57:019][962]LogSavePackage: Save=6.13ms
+[2017.10.04-23.38.57:019][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_364FAE6184D9E5FD7D1867788C660962C.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_3.uasset'
+[2017.10.04-23.38.57:023][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_3.uasset
+[2017.10.04-23.38.57:040][962]LogSavePackage: Save=3.89ms
+[2017.10.04-23.38.57:040][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head1D19FE3941B93301F9DD1CB7DF2183C6.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head.uasset'
+[2017.10.04-23.38.57:043][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head.uasset
+[2017.10.04-23.38.57:060][962]LogSavePackage: Save=3.67ms
+[2017.10.04-23.38.57:060][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_20ADBB61C4033476D8AE3388AF8959B48.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_2.uasset'
+[2017.10.04-23.38.57:077][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_2.uasset
+[2017.10.04-23.38.57:096][962]LogSavePackage: Save=3.72ms
+[2017.10.04-23.38.57:097][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_3C3F7DC9044F027ECA3BE85826ACFE373.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_3.uasset'
+[2017.10.04-23.38.57:100][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_3.uasset
+[2017.10.04-23.38.57:117][962]LogSavePackage: Save=4.47ms
+[2017.10.04-23.38.57:117][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_HeadDFAB0E3244C6DF30E100549BA4884E6A.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head.uasset'
+[2017.10.04-23.38.57:121][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head.uasset
+[2017.10.04-23.38.57:137][962]LogSavePackage: Save=4.55ms
+[2017.10.04-23.38.57:137][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_29B9DEAA642EF3D1FEF5A3F81A6DE70B7.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_2.uasset'
+[2017.10.04-23.38.57:140][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_2.uasset
+[2017.10.04-23.38.57:158][962]LogSavePackage: Save=3.65ms
+[2017.10.04-23.38.57:158][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_3AB094F2E444E2CEDE334A89F3244EAA1.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_3.uasset'
+[2017.10.04-23.38.57:161][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_3.uasset
+[2017.10.04-23.38.57:178][962]LogSavePackage: Save=3.90ms
+[2017.10.04-23.38.57:178][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head18AC9B7941316431E08AE985AC7ACA17.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head.uasset'
+[2017.10.04-23.38.57:182][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head.uasset
+[2017.10.04-23.38.57:201][962]LogSavePackage: Save=4.39ms
+[2017.10.04-23.38.57:201][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_2A05982BC47F8B667A940CB8DEF7CD09E.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_2.uasset'
+[2017.10.04-23.38.57:205][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_2.uasset
+[2017.10.04-23.38.57:223][962]LogSavePackage: Save=3.64ms
+[2017.10.04-23.38.57:223][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Head_30E622DC04331D7A28153109DD32E19B7.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_3.uasset'
+[2017.10.04-23.38.57:227][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Head_3.uasset
+[2017.10.04-23.38.57:257][962]LogSavePackage: Save=15.31ms
+[2017.10.04-23.38.57:257][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_SpaceSoldier_Default70C7F7684FC23DA139A86B899008ACE8.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/M_SpaceSoldier_Default.uasset'
+[2017.10.04-23.38.57:260][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/M_SpaceSoldier_Default.uasset
+[2017.10.04-23.38.57:280][962]LogSavePackage: Save=4.64ms
+[2017.10.04-23.38.57:280][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_TorsoA7F84644401F1E21451FEAB19F4828A3.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso.uasset'
+[2017.10.04-23.38.57:284][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso.uasset
+[2017.10.04-23.38.57:303][962]LogSavePackage: Save=4.23ms
+[2017.10.04-23.38.57:304][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_228B71E6E48EE5DD9CA65778D96AF2C77.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_2.uasset'
+[2017.10.04-23.38.57:307][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_2.uasset
+[2017.10.04-23.38.57:324][962]LogSavePackage: Save=3.42ms
+[2017.10.04-23.38.57:324][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_33D6564714F50CE3288FA8F9A1B383069.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_3.uasset'
+[2017.10.04-23.38.57:327][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_3.uasset
+[2017.10.04-23.38.57:356][962]LogSavePackage: Save=14.89ms
+[2017.10.04-23.38.57:356][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_SpaceSoldier_DefaultFE06B6B4497C6EBCD3FB729FBD37B6F6.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/M_SpaceSoldier_Default.uasset'
+[2017.10.04-23.38.57:360][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/M_SpaceSoldier_Default.uasset
+[2017.10.04-23.38.57:377][962]LogSavePackage: Save=4.00ms
+[2017.10.04-23.38.57:378][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso9B7BD1824229C135A93E248415698E07.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso.uasset'
+[2017.10.04-23.38.57:381][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso.uasset
+[2017.10.04-23.38.57:398][962]LogSavePackage: Save=3.52ms
+[2017.10.04-23.38.57:398][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_240B838A54CB38BD843BE63858442BF46.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_2.uasset'
+[2017.10.04-23.38.57:401][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_2.uasset
+[2017.10.04-23.38.57:418][962]LogSavePackage: Save=3.25ms
+[2017.10.04-23.38.57:418][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_33BE62D6A450891A265DA28A13232E02D.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_3.uasset'
+[2017.10.04-23.38.57:422][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_3.uasset
+[2017.10.04-23.38.57:449][962]LogSavePackage: Save=15.21ms
+[2017.10.04-23.38.57:450][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_SpaceSoldier_DefaultDF137AB042F32B763A0811B8C4164997.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/M_SpaceSoldier_Default.uasset'
+[2017.10.04-23.38.57:453][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/M_SpaceSoldier_Default.uasset
+[2017.10.04-23.38.57:468][962]LogSavePackage: Save=3.28ms
+[2017.10.04-23.38.57:468][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso8D06AADA4253C5AFFA521CA03F9A8F43.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso.uasset'
+[2017.10.04-23.38.57:472][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso.uasset
+[2017.10.04-23.38.57:491][962]LogSavePackage: Save=3.65ms
+[2017.10.04-23.38.57:491][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_2C767FB81403C6D14FBF0B4B1784D34B4.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_2.uasset'
+[2017.10.04-23.38.57:494][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_2.uasset
+[2017.10.04-23.38.57:512][962]LogSavePackage: Save=5.24ms
+[2017.10.04-23.38.57:512][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_30AF1D89A43B72D3D0AB25C8C68F53C38.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_3.uasset'
+[2017.10.04-23.38.57:516][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_3.uasset
+[2017.10.04-23.38.57:544][962]LogSavePackage: Save=15.47ms
+[2017.10.04-23.38.57:544][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_SpaceSoldier_Default7A0876CD433507306494A982FF738608.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/M_SpaceSoldier_Default.uasset'
+[2017.10.04-23.38.57:548][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/M_SpaceSoldier_Default.uasset
+[2017.10.04-23.38.57:563][962]LogSavePackage: Save=3.43ms
+[2017.10.04-23.38.57:564][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_TorsoC91613044793A1C214A62BA5C25103FB.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso.uasset'
+[2017.10.04-23.38.57:567][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso.uasset
+[2017.10.04-23.38.57:584][962]LogSavePackage: Save=3.54ms
+[2017.10.04-23.38.57:584][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_29BCF7B7E41E4653E3842F9B79CC874CB.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_2.uasset'
+[2017.10.04-23.38.57:588][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_2.uasset
+[2017.10.04-23.38.57:605][962]LogSavePackage: Save=3.93ms
+[2017.10.04-23.38.57:605][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_37F228C454600B651F89F59898406A7D3.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_3.uasset'
+[2017.10.04-23.38.57:609][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_3.uasset
+[2017.10.04-23.38.57:636][962]LogSavePackage: Save=14.65ms
+[2017.10.04-23.38.57:636][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_SpaceSoldier_Default878AD71D4BE1ABB9FC5B8DAD9B718BFC.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/M_SpaceSoldier_Default.uasset'
+[2017.10.04-23.38.57:640][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/M_SpaceSoldier_Default.uasset
+[2017.10.04-23.38.57:658][962]LogSavePackage: Save=3.46ms
+[2017.10.04-23.38.57:658][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_TorsoB1728EC144C777DAB1F079866AB601E0.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso.uasset'
+[2017.10.04-23.38.57:661][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso.uasset
+[2017.10.04-23.38.57:678][962]LogSavePackage: Save=4.15ms
+[2017.10.04-23.38.57:678][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_2B94846DC484CD008F2A43083D9EDB76A.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_2.uasset'
+[2017.10.04-23.38.57:681][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_2.uasset
+[2017.10.04-23.38.57:697][962]LogSavePackage: Save=3.31ms
+[2017.10.04-23.38.57:697][962]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_SciFi_SpaceSoldier_Torso_38CC9E6534875B3E207067590C6D5508E.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_3.uasset'
+[2017.10.04-23.38.57:700][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/Material/MI_SciFi_SpaceSoldier_Torso_3.uasset
+[2017.10.04-23.39.39:183][177]LogAIModule: Creating AISystem for world BaseLevel
+[2017.10.04-23.39.44:576][357]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.04-23.39.47:222][357]LogSavePackage: Save=4476.65ms
+[2017.10.04-23.39.47:222][357]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/BaseLevel7205C16043BC66F19F5411A2A05606B9.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/BaseLevel.umap'
+[2017.10.04-23.39.47:230][357]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/BaseLevel.umap
+[2017.10.04-23.39.47:305][357]LogFileHelpers: Saving map 'BaseLevel' took 5.317
+[2017.10.04-23.40.01:143][986]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.10.04-23.40.01:241][987]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2017.10.04-23.40.01:343][988]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2017.10.04-23.40.01:452][989]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2017.10.04-23.40.09:470][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Functions/F_Specular" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Functions/F_Specular.uasset" SILENT=true
+[2017.10.04-23.40.09:483][824]LogSavePackage: Save=10.17ms
+[2017.10.04-23.40.09:483][824]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/F_SpecularF80C91644D2F107AAEC88CA4093AAA60.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Functions/F_Specular.uasset'
+[2017.10.04-23.40.09:491][824]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Functions/F_Specular.uasset
+[2017.10.04-23.40.09:506][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Functions/F_Dust" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Functions/F_Dust.uasset" SILENT=true
+[2017.10.04-23.40.09:529][824]LogSavePackage: Save=21.12ms
+[2017.10.04-23.40.09:530][824]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/F_DustD915B9D5450C06D17760E9BCC7939C86.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Functions/F_Dust.uasset'
+[2017.10.04-23.40.09:535][824]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Functions/F_Dust.uasset
+[2017.10.04-23.40.09:551][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Functions/F_Panner_Dust" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Functions/F_Panner_Dust.uasset" SILENT=true
+[2017.10.04-23.40.09:570][824]LogSavePackage: Save=15.29ms
+[2017.10.04-23.40.09:570][824]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/F_Panner_Dust48F6E1AF4FBCBA8451B7B19B4B22E962.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Functions/F_Panner_Dust.uasset'
+[2017.10.04-23.40.09:576][824]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Functions/F_Panner_Dust.uasset
+[2017.10.04-23.40.09:593][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Functions/F_Fade" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Functions/F_Fade.uasset" SILENT=true
+[2017.10.04-23.40.09:606][824]LogSavePackage: Save=9.94ms
+[2017.10.04-23.40.09:606][824]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/F_FadeED3646BD4E06388E172D17B5BA3A0118.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Functions/F_Fade.uasset'
+[2017.10.04-23.40.09:612][824]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Functions/F_Fade.uasset
+[2017.10.04-23.40.10:027][824]LogSavePackage: Save=87.97ms
+[2017.10.04-23.40.10:028][824]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_MarsA77432B0431EB5533EC4D5BDFA479711.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/MarsLandscape/Materials/Landscape/M_Mars.uasset'
+[2017.10.04-23.40.10:031][824]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/MarsLandscape/Materials/Landscape/M_Mars.uasset
+[2017.10.04-23.40.10:123][824]LogSavePackage: Save=80.05ms
+[2017.10.04-23.40.10:124][824]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_Mars78F381BC43490FBED6A6F9B72184F2DC.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/MarsLandscape/Materials/Landscape/M_Mars.uasset'
+[2017.10.04-23.40.10:127][824]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/MarsLandscape/Materials/Landscape/M_Mars.uasset
+[2017.10.04-23.40.10:216][824]LogSavePackage: Save=77.09ms
+[2017.10.04-23.40.10:216][824]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_Mars32B317D445F9070F48B3989196A01E41.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/MarsLandscape/Materials/Landscape/M_Mars.uasset'
+[2017.10.04-23.40.10:220][824]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/MarsLandscape/Materials/Landscape/M_Mars.uasset
+[2017.10.04-23.40.10:311][824]LogSavePackage: Save=77.42ms
+[2017.10.04-23.40.10:311][824]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_Mars917A3FC5426563120D1357B98C411A14.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/MarsLandscape/Materials/Landscape/M_Mars.uasset'
+[2017.10.04-23.40.10:315][824]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/MarsLandscape/Materials/Landscape/M_Mars.uasset
+[2017.10.04-23.40.17:307][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Landscape/M_Mars" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Landscape/M_Mars.uasset" SILENT=true
+[2017.10.04-23.40.17:406][587]LogSavePackage: Save=96.67ms
+[2017.10.04-23.40.17:406][587]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/M_Mars3A56562F47868D1D649F79BA328CC3CF.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Landscape/M_Mars.uasset'
+[2017.10.04-23.40.17:412][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Landscape/M_Mars.uasset
+[2017.10.04-23.40.17:435][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Landscape/MI_Mars" FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Landscape/MI_Mars.uasset" SILENT=true
+[2017.10.04-23.40.17:453][587]LogSavePackage: Save=15.80ms
+[2017.10.04-23.40.17:453][587]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_MarsB3FAD93E4815119C698BC28BA6E7E566.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Landscape/MI_Mars.uasset'
+[2017.10.04-23.40.17:459][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/Landscape/MI_Mars.uasset
+[2017.10.04-23.40.17:474][587]LogSavePackage: Save=1.90ms
+[2017.10.04-23.40.17:474][587]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/MI_Mars6DF9506346118FB49C7F0C83E0007574.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/MarsLandscape/Materials/Landscape/MI_Mars.uasset'
+[2017.10.04-23.40.17:482][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/MarsLandscape/Materials/Landscape/MI_Mars.uasset
+[2017.10.04-23.40.37:898][580]LogSavePackage: Save=34.45ms
+[2017.10.04-23.40.37:898][580]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/TestSceneA9B657964CF71E4769EC3A80E8BAAAD9.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Scenes/TestScene.umap'
+[2017.10.04-23.40.37:905][580]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Scenes/TestScene.umap
+[2017.10.04-23.40.37:907][580]LogFileHelpers: Saving map 'TestScene' took 0.158
+[2017.10.04-23.40.42:539][580]LogSavePackage: Save=4340.49ms
+[2017.10.04-23.40.42:539][580]LogSavePackage: Moving '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/BaseLevel0DF7B0B441198EC5370C849F8CB14C88.tmp' to '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/BaseLevel.umap'
+[2017.10.04-23.40.42:559][580]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Levels/BaseLevel.umap
+[2017.10.04-23.40.42:582][580]LogFileHelpers: Saving map 'BaseLevel' took 4.675
+[2017.10.04-23.40.42:630][580]Cmd: MAP LOAD FILE="../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Characters/SciFi_Space_Soldier/Scenes/TestScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.04-23.40.42:630][580]LightingResults: New page: Lighting Build
+[2017.10.04-23.40.42:631][580]LoadErrors: New page: Loading map: TestScene.umap
+[2017.10.04-23.40.42:632][580]MapCheck: New page: Map Check
+[2017.10.04-23.40.42:632][580]LightingResults: New page: Lighting Build
+[2017.10.04-23.40.44:238][580]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.04-23.40.44:293][580]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.04-23.40.44:382][580]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.889ms to complete.
+[2017.10.04-23.40.44:383][580]LogFileHelpers: Loading map 'TestScene' took 1.754
+[2017.10.04-23.43.19:373][645]AssetTools: New page: Content migration completed successfully!
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/Blueprints/ThirdPersonCharacterMars
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/Animations/ThirdPerson_AnimBPMars
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/Animations/ThirdPerson_JumpMars
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier_Skeleton
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/Material/MI_SciFi_SpaceSoldier_Head
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/Material/M_SpaceSoldier_Default
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_CM
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_D
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_E
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_N
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Torso_ORM
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_CM
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_D
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_E
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_N
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Head_ORM
+[2017.10.04-23.43.19:373][645]AssetTools: /Game/Characters/Material/MI_SciFi_SpaceSoldier_Legs
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Legs_CM
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Legs_D
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Legs_N
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Armor_B_Legs_ORM
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Textures/T_SpaceSoldier_Black
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/Material/MI_SciFi_SpaceSoldier_Torso
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/SciFi_Space_Soldier/Meshes/SK_SciFi_Space_Soldier_PhysicsAsset
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/Animations/ThirdPersonJump_LoopMars
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/Animations/ThirdPersonJump_StartMars
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/Animations/ThirdPerson_IdleRun_2DMars
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/Animations/ThirdPersonIdleMars
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/Animations/ThirdPersonRunMars
+[2017.10.04-23.43.19:374][645]AssetTools: /Game/Characters/Animations/ThirdPersonWalkMars
+[2017.10.04-23.43.22:432][859]Cmd: QUIT_EDITOR
+[2017.10.04-23.43.22:448][859]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.04-23.43.22:462][859]LogExit: Preparing to exit.
+[2017.10.04-23.43.23:532][859]LogDirectoryWatcher: A directory notification for 'C:/Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/' was aborted.
+[2017.10.04-23.43.23:568][859]LogExit: Editor shut down
+[2017.10.04-23.43.23:572][859]LogExit: Transaction tracking system shut down
+[2017.10.04-23.43.23:725][859]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.04-23.43.23:726][859]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/' was aborted.
+[2017.10.04-23.43.23:726][859]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.04-23.43.23:726][859]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.04-23.43.23:726][859]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.04-23.43.23:889][859]LogExit: Object subsystem successfully closed.
+[2017.10.04-23.43.23:924][859]LogD3D11RHI: Shutdown
+[2017.10.04-23.43.23:924][859]LogD3D11RHI: CleanupD3DDevice
+[2017.10.04-23.43.24:022][859]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.04-23.43.24:048][859]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.10.04-23.43.24:048][859]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.10.04-23.43.24:048][859]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.10.04-23.43.24:048][859]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.04-23.43.24:049][859]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.10.04-23.43.24:049][859]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.10.04-23.43.24:049][859]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.10.04-23.43.24:049][859]LogDirectoryWatcher: A directory notification for 'C:/Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Collections/' was aborted.
+[2017.10.04-23.43.24:049][859]LogDirectoryWatcher: A directory notification for 'C:/Users/Pyos/Documents/Unreal Projects/AresProject1_1/Content/Developers/Pyos/Collections/' was aborted.
+[2017.10.04-23.43.24:049][859]LogDirectoryWatcher: A directory notification for 'C:/Users/Pyos/Documents/Unreal Projects/AresProject1_1/Saved/Collections/' was aborted.
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.10.04-23.43.24:050][859]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.10.04-23.43.24:051][859]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.10.04-23.43.24:051][859]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.10.04-23.43.24:051][859]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.10.04-23.43.24:051][859]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.10.04-23.43.24:051][859]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.10.04-23.43.24:051][859]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.10.04-23.43.24:469][859]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.10.04-23.43.24:470][859]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.10.04-23.43.24:470][859]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.10.04-23.43.24:470][859]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.10.04-23.43.24:470][859]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.10.04-23.43.24:470][859]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.10.04-23.43.24:470][859]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.10.04-23.43.24:470][859]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.10.04-23.43.24:533][859]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.10.04-23.43.24:533][859]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.10.04-23.43.24:533][859]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.10.04-23.43.24:533][859]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.10.04-23.43.24:533][859]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.10.04-23.43.24:533][859]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.10.04-23.43.24:534][859]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.10.04-23.43.24:534][859]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.10.04-23.43.24:534][859]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.10.04-23.43.24:534][859]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.10.04-23.43.24:534][859]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.10.04-23.43.24:535][859]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.10.04-23.43.24:684][859]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.10.04-23.43.24:684][859]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.10.04-23.43.24:684][859]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.10.04-23.43.24:684][859]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.10.04-23.43.24:684][859]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.10.04-23.43.24:684][859]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.10.04-23.43.24:684][859]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.10.04-23.43.24:684][859]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.10.04-23.43.24:684][859]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.10.04-23.43.24:684][859]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.10.04-23.43.24:684][859]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.10.04-23.43.24:684][859]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.10.04-23.43.24:685][859]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.10.04-23.43.24:686][859]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.10.04-23.43.24:686][859]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.10.04-23.43.24:686][859]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.10.04-23.43.24:687][859]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.10.04-23.43.24:687][859]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.10.04-23.43.24:687][859]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.10.04-23.43.24:687][859]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.10.04-23.43.24:687][859]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.10.04-23.43.24:687][859]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.10.04-23.43.24:687][859]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.10.04-23.43.24:687][859]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.10.04-23.43.24:787][859]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.10.04-23.43.24:888][859]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.10.04-23.43.24:888][859]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.10.04-23.43.24:888][859]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.10.04-23.43.24:888][859]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.10.04-23.43.24:888][859]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.10.04-23.43.24:888][859]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.10.04-23.43.24:889][859]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.10.04-23.43.24:890][859]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.10.04-23.43.24:890][859]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.10.04-23.43.24:890][859]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.10.04-23.43.24:890][859]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.10.04-23.43.24:890][859]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.10.04-23.43.24:890][859]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.10.04-23.43.24:890][859]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.10.04-23.43.24:890][859]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.10.04-23.43.24:890][859]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.10.04-23.43.24:893][859]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.10.04-23.43.24:894][859]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.10.04-23.43.24:921][859]LogDerivedDataCache: Shutdown
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.10.04-23.43.24:921][859]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.04-23.43.24:922][859]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.04-23.43.24:922][859]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.04-23.43.24:922][859]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.04-23.43.24:922][859]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B950F597C-4581-74A4-FFA1-F988D1A32CED%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=60abcf7f4a8b3833084bc08d05f1172d%7C9e8d5e437c5c4412bba3474650696154%7Cece70480-be24-414c-8953-d3fab359e705&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.04-23.43.24:954][859]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.04-23.43.24:956][859]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.04-23.43.24:956][859]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.04-23.43.24:956][859]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.04-23.43.24:956][859]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.04-23.43.24:956][859]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.04-23.43.24:956][859]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.04-23.43.24:956][859]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.04-23.43.24:957][859]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.04-23.43.24:957][859]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.04-23.43.24:957][859]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.04-23.43.24:957][859]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.04-23.43.24:957][859]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.04-23.43.24:957][859]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.04-23.43.24:957][859]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.04-23.43.24:957][859]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.04-23.43.24:957][859]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.04-23.43.24:957][859]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.04-23.43.24:957][859]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.04-23.43.24:961][859]LogExit: Exiting.
+[2017.10.04-23.43.24:974][859]Log file closed, 10/05/17 01:43:24
